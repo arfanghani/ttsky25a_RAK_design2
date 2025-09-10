@@ -2,7 +2,7 @@
 project:
   wokwi_id:     438920793944579073       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Multiple digital design structures"      # Project title
-  author:       "RAK Design 2"      # Your name
+  author:       "A Ghani -Emirates Chips Competence- Design 2"      # Your name
   discord:      "N/A"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "This design includes multiple digital designs such as positive and negative edge trigger circuits, an LFSR and spike counter and output trigger circuits" # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
